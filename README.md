@@ -1,6 +1,6 @@
 ### Hi there 👋
-Check my blog in:
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+
 
 
 <!-- **albe68/albe68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
