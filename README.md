@@ -7,16 +7,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={albe68}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-albe68&theme=dark" width="48%" >
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albe68&layout=compact)
+
 
 
 
 - 👯 I’m looking to collaborate on ...
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={albe68}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
