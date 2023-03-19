@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username={albe68}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-albe68&theme=dark" width="48%" >
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albe68&layout=compact)
 
 
 
