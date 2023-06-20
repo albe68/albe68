@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username={albe68}&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=albe68&theme=radical&no-frame=false&no-bg=false&margin-w=4)
