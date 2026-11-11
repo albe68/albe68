@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **node.js & AWS**
 
-- 📫 How to reach me **albertpaulus836@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
